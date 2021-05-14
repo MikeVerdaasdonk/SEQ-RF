@@ -1,5 +1,5 @@
 # SEQ-RF
-Sequence of Random Forest 
+Sequence of Random Forests 
 
 This repository consist of 5 different files for prediction and 2 files for pre processing:
 
