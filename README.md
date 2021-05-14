@@ -1,7 +1,13 @@
 # SEQ-RF
 Sequence of Random Forest 
 
-This repository consist of 5 different files:
+This repository consist of 5 different files for prediction and 1 file for pre processing:
+
+Preprocessing:
+
+Master_project_preprocess_timestamp = Transform two columns, one for date and one for time into one column
+
+Prediction: 
 
 Master_project_random_forest_baseline = Random Forest for predicting overstaying with the use of patient data
 
